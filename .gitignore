@@ -1,0 +1,7 @@
+node_modules
+
+#IDEA
+.idea
+
+#STATIC
+static
